@@ -53,7 +53,7 @@ From TypeScript-heavy web apps to IoT builds with sensors, I’ve been crafting 
 
 ### 🔌 IoT Projects
 - **IoT-Based LPG Gas Detector**  
-  Arduino + MQ-6 sensor system that detects LPG gas leaks and sends real-time alerts. *(repo private)*
+  Arduino + MQ-6 sensor system that detects LPG gas leaks and sends real-time alerts.
 
 ---
 
@@ -78,3 +78,4 @@ From TypeScript-heavy web apps to IoT builds with sensors, I’ve been crafting 
 - [LinkedIn](https://www.linkedin.com/in/archit-saxena-61a8b6290)  
 - [My Portfolio](https://portfolio-psi-gold-55.vercel.app/)  
 - Drop an email: **architsaxena349@gmail.com**
+
