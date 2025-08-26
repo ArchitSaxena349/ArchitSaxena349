@@ -58,9 +58,6 @@ From TypeScript-heavy web apps to IoT builds with sensors, I’ve been crafting 
 ---
 
 ### 🎨 Portfolios & Configs
-- **[3D Portfolio]** *(Private)*  
-  A sleek 3D animated portfolio website.
-
 - **[Portfolio](https://github.com/ArchitSaxena349/Portfolio)**  
   My personal portfolio website.
 
@@ -78,4 +75,5 @@ From TypeScript-heavy web apps to IoT builds with sensors, I’ve been crafting 
 - [LinkedIn](https://www.linkedin.com/in/archit-saxena-61a8b6290)  
 - [My Portfolio](https://portfolio-psi-gold-55.vercel.app/)  
 - Drop an email: **architsaxena349@gmail.com**
+
 
