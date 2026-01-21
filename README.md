@@ -1,80 +1,126 @@
-# Hey there, I'm Archit Saxena 👋
+# 👋 Hi, I’m **Archit Saxena**
 
-Final-year CSE student, full-stack explorer, and ML enthusiast.  
-From TypeScript-heavy web apps to IoT builds with sensors, I’ve been crafting projects that solve real problems (and sometimes just to see if I can break the rules and make them better).
+**Final-Year B.Tech (CSE) | Full-Stack Developer | AI / ML / Agentic Systems**
 
----
+I build **production-ready web applications** and **AI-powered systems** — spanning full-stack platforms, machine learning models, computer vision pipelines, and autonomous AI agents.  
+My focus is on **real-world problem solving, clean architecture, and scalable design**.
 
-### 🚀 Tech Toolbox
-
-- **Frontend:** React · Next.js · Tailwind CSS · TypeScript · JavaScript · HTML/CSS  
-- **Backend:** Node.js · Express.js · PHP  
-- **Databases:** MongoDB · PostgreSQL  
-- **Data/ML:** Python · Jupyter Notebooks · Scikit-learn · TensorFlow · Keras · OpenCV  
-- **DevOps / Tools:** Docker · AWS (EC2, S3, Elastic Beanstalk) · Postman · Git/GitHub  
-- **IoT:** Arduino · MQ-6 Gas Sensor · PM2.5 Sensors  
+🔗 **Portfolio:** https://portfolio-psi-gold-55.vercel.app  
+🔗 **LinkedIn:** https://www.linkedin.com/in/archit-saxena-61a8b6290  
+📫 **Email:** architsaxena349@gmail.com  
 
 ---
 
-## 🛠 Projects
+## 🧠 Core Skills
 
-### 🌐 Web Applications
-- **[EvolveNet](https://github.com/ArchitSaxena349/EvolveNet)**  
-  JavaScript-based project exploring evolving architectures and dynamic systems.
+### 💻 Full-Stack Development
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript
+- **Backend:** Node.js, Express, PHP
+- **Databases:** MongoDB, PostgreSQL
+- **Auth & APIs:** REST APIs, JWT, role-based access
 
-- **[E-commerce](https://github.com/ArchitSaxena349/ecommerce)**  
-  TypeScript-powered online shopping platform with scalable design.
+### 🤖 AI / ML / Data
+- Python, NumPy, Pandas  
+- Scikit-learn, TensorFlow, Keras  
+- NLP, Classification, Regression  
+- Computer Vision (OpenCV, CNNs)  
+- RAG pipelines & AI agents  
 
-- **[Resume Analyzer](https://github.com/ArchitSaxena349/resumeanalyzer)**  
-  Tool for parsing and evaluating resumes using TypeScript.
+### ☁️ DevOps & Tools
+- Docker, AWS (EC2, S3, Elastic Beanstalk)
+- Git & GitHub, Postman
+- Jupyter Notebook
 
-- **[EventHive](https://github.com/ArchitSaxena349/eventhive)**  
-  PHP-based event management system.
-
-- **[LearnBuddy Agents](https://github.com/ArchitSaxena349/LearnBuddy-Agents)**  
-  JS-powered e-learning platform prototype.
-
-- **[Outlier](https://github.com/ArchitSaxena349/outlier)**  
-  TypeScript project aimed at anomaly detection & analysis.
-
----
-
-### 🤖 Data & ML Projects
-- **[Employee Salary Prediction](https://github.com/ArchitSaxena349/employee-salary-prediction)**  
-  Jupyter Notebook project predicting salaries using regression models.
-
-- **[Credit Approval System](https://github.com/ArchitSaxena349/credit-approval-system)**  
-  Python ML project that automates credit approval decisions.
-
-- **[CV Mask Detection](https://github.com/ArchitSaxena349/CV-Mask-detection)**  
-  Flask + Keras + TensorFlow + OpenCV web app that detects face masks in images and real-time video streams.  
+### 📡 IoT
+- Arduino, MQ-6 Gas Sensor, PM2.5 sensors
 
 ---
 
-### 🔌 IoT Projects
-- **IoT-Based LPG Gas Detector**  
-  Arduino + MQ-6 sensor system that detects LPG gas leaks and sends real-time alerts.
+## 🚀 Featured Projects
+
+### 🔹 **[PolyLingoAI](https://github.com/ArchitSaxena349/PolyLingoAI)**
+> AI-powered multilingual learning assistant using NLP and adaptive feedback.
+
+- Personalized language learning  
+- NLP-driven feedback loops  
+- Product-focused AI design  
 
 ---
 
-### 🎨 Portfolios & Configs
-- **[Portfolio](https://github.com/ArchitSaxena349/Portfolio)**  
-  My personal portfolio website.
+### 🔹 **[LearnBuddy-Agents](https://github.com/ArchitSaxena349/LearnBuddy-Agents)**
+> Agent-based AI learning assistant using autonomous workflows.
 
-- **[ArchitSaxena349](https://github.com/ArchitSaxena349/ArchitSaxena349)**  
-  My GitHub profile configuration.
-
----
-
-> Whether it's coding till 2 AM, debugging messy models, or wiring up sensors, I live for that “aha!” moment when things just click. Let’s build something epic.
+- Multi-agent architecture  
+- Tool-calling & reasoning pipelines  
+- Scalable agent design  
 
 ---
 
-### 🤝 Connect With Me
+### 🔹 **[E-commerce Platform](https://github.com/ArchitSaxena349/ecommerce)**
+> End-to-end full-stack e-commerce system.
 
-- [LinkedIn](https://www.linkedin.com/in/archit-saxena-61a8b6290)  
-- [My Portfolio](https://portfolio-psi-gold-55.vercel.app/)  
-- Drop an email: **architsaxena349@gmail.com**
+- Authentication & authorization  
+- Product, cart & order workflows  
+- Clean backend API design  
 
+---
 
+### 🔹 **[DocWrangler](https://github.com/ArchitSaxena349/Docwrangler)**
+> Intelligent document processing and extraction tool.
 
+- Unstructured document parsing  
+- Automation-focused design  
+- Developer-centric utility  
+
+---
+
+### 🔹 **[CV Mask Detection](https://github.com/ArchitSaxena349/CV-Mask-detection)**
+> Real-time face mask detection system.
+
+- CNN + OpenCV pipeline  
+- Live video inference  
+- Flask-based deployment  
+
+---
+
+### 🔹 **[Portfolio / 3D Portfolio](https://github.com/ArchitSaxena349/Portfolio)**
+> Interactive personal portfolio showcasing projects and skills.
+
+- Modern UI/UX  
+- 3D web experimentation  
+- Performance-optimized frontend  
+
+---
+
+## 📦 Other Notable Projects
+
+### 🤖 AI / ML
+- **[Resume Analyzer](https://github.com/ArchitSaxena349/resumeanalyzer)** – NLP-based resume evaluation system  
+- **[Credit Approval System](https://github.com/ArchitSaxena349/credit-approval-system)** – ML classification model  
+- **[Employee Salary Prediction](https://github.com/ArchitSaxena349/employee-salary-prediction)** – Regression-based salary estimation  
+- **[Outlier](https://github.com/ArchitSaxena349/outlier)** – Anomaly detection using statistical & ML techniques  
+
+### 🌐 Web Platforms
+- **[EventHive](https://github.com/ArchitSaxena349/eventhive)** – Event management system (PHP)  
+- **[VendorStreet](https://github.com/akcode7/vendorstreet)** – Multi-vendor marketplace  
+- **[ReWear](https://github.com/akcode7/ReWear)** – Sustainable fashion resale platform  
+- **[LabourLink](https://github.com/akcode7/labourlink)** – Job-matching platform for skilled labor  
+
+### 🚀 Hackathons / Research
+- **[NASA Space App Challenge](https://github.com/The-code-wizard-934/Nasa_space_app_Challenge)** – Space data & visualization project  
+- **[NASA RAG System](https://github.com/akcode7/nasa_hackathon_rag)** – Retrieval-augmented QA over NASA datasets  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- Software Engineering roles  
+- Full-Stack / AI internships  
+- Hackathons & collaborations  
+
+📩 Reach out via **LinkedIn** or **email** — always happy to connect.
+
+---
+
+### ⭐ If you find my work useful, consider starring a repo!
