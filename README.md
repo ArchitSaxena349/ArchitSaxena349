@@ -2,7 +2,7 @@
 
 **B.Tech (CSE) | Data Engineer | Data Analyst | AI/ML Engineer | Full-Stack Developer**
 
-I'm a results-driven **Data Engineer & AI/ML Specialist** with hands-on experience in building **data pipelines, ETL workflows, and intelligent systems**. Skilled in designing scalable data architectures, implementing machine learning solutions, and delivering data-driven insights. Currently interning at **Tranqila Systems** where I work on data engineering and Azure cloud infrastructure.
+I'm a results-driven **Data Engineer & AI/ML Specialist** with hands-on experience in building **data pipelines, ETL workflows, and intelligent systems**. Skilled in designing scalable data architectures, implementing machine learning solutions, and delivering data-driven insights. Currently interning at **Tranzita Systems** where I work on data engineering and Azure cloud infrastructure.
 
 🔗 **Portfolio:** https://portfolio-psi-gold-55.vercel.app  
 🔗 **LinkedIn:** https://www.linkedin.com/in/archit-saxena-61a8b6290  
@@ -13,7 +13,7 @@ I'm a results-driven **Data Engineer & AI/ML Specialist** with hands-on experien
 
 ## 💼 Professional Experience
 
-### **Software Development Engineer Intern** — Tranqila Systems
+### **Software Development Engineer Intern** — Tranzita Systems
 **Mar 2026 – May 2026**
 - Engineered end-to-end data ingestion and ETL workflows to consolidate 500M+ JSON data from Azure Blob Storage into Delta Lake
 - Built PySpark information pipelines in Azure Databricks for data cleaning, validation, and structured processing at scale
@@ -29,7 +29,7 @@ I'm a results-driven **Data Engineer & AI/ML Specialist** with hands-on experien
 
 ---
 
-## 🚀 Featured Projects (Data & AI Focused)
+## 🚀 Featured Projects
 
 ### 🔹 **[DocWrangler](https://github.com/ArchitSaxena349/Docwrangler)** — Python | NLP | RAG
 > Intelligent document intelligence platform using FastAPI, Gemini API, ChromaDB, and Sentence Transformers.
