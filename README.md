@@ -1,181 +1,228 @@
 # 👋 Hi, I'm **Archit Saxena**
 
-**Final-Year B.Tech (CSE) | Full-Stack Developer | AI / ML / Agentic Systems**
+**B.Tech (CSE) | Data Engineer | Data Analyst | AI/ML Engineer | Full-Stack Developer**
 
-I build **production-ready web applications** and **AI-powered systems** — spanning full-stack platforms, machine learning models, computer vision pipelines, and autonomous AI agents. My focus is on **real-world problem solving, clean architecture, and scalable design**.
+I'm a results-driven **Data Engineer & AI/ML Specialist** with hands-on experience in building **data pipelines, ETL workflows, and intelligent systems**. Skilled in designing scalable data architectures, implementing machine learning solutions, and delivering data-driven insights. Currently interning at **Tranqila Systems** where I work on data engineering and Azure cloud infrastructure.
 
 🔗 **Portfolio:** https://portfolio-psi-gold-55.vercel.app  
 🔗 **LinkedIn:** https://www.linkedin.com/in/archit-saxena-61a8b6290  
 📫 **Email:** architsaxena349@gmail.com  
+📍 **Location:** Lucknow, UP | Phone: +91 8887622519
 
 ---
 
-## 🧠 Core Skills
+## 💼 Professional Experience
 
-### 💻 Full-Stack Development
-- **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript
-- **Backend:** Node.js, Express, PHP
-- **Databases:** MongoDB, PostgreSQL
-- **Auth & APIs:** REST APIs, JWT, role-based access
+### **Software Development Engineer Intern** — Tranqila Systems
+**Mar 2026 – May 2026**
+- Engineered end-to-end data ingestion and ETL workflows to consolidate 500M+ JSON data from Azure Blob Storage into Delta Lake
+- Built PySpark information pipelines in Azure Databricks for data cleaning, validation, and structured processing at scale
+- Developed automated workflows to load curated datasets into SQL Warehouse for real-time business intelligence
+- Optimized data transformation pipelines reducing processing time by 40% through efficient partitioning and caching
+- Collaborated cross-functionally via GitHub, Microsoft Teams, and Agile sprint ceremonies
 
-### 🤖 AI / ML / Data
-- Python, NumPy, Pandas  
-- Scikit-learn, TensorFlow, Keras  
-- NLP, Classification, Regression  
-- Computer Vision (OpenCV, CNNs)  
-- RAG pipelines & AI agents  
+### **Artificial Intelligence Intern** — EduNet Foundation (AICTE & IBM SkillBuild)
+**Jun 2025 – Jul 2025**
+- Completed 6-week intensive program on ML, AI workflows, data preprocessing, and feature engineering
+- Applied AI problem-solving methodologies to real-world datasets and business scenarios
+- Participated in hands-on workshops covering NLP, computer vision, and predictive modeling
+
+---
+
+## 🚀 Featured Projects (Data & AI Focused)
+
+### 🔹 **[DocWrangler](https://github.com/ArchitSaxena349/Docwrangler)** — Python | NLP | RAG
+> Intelligent document intelligence platform using FastAPI, Gemini API, ChromaDB, and Sentence Transformers.
+- Implemented RAG workflows for semantic search, document indexing, and Q&A across PDF, DOCX, image, and text files
+- Built ML-based data extraction and intelligent document parsing pipelines
+- Deployed production-ready REST APIs for enterprise document processing
+
+### 🔹 **[Money-Muling-Detection](https://github.com/ArchitSaxena349/Money-Muling-Detection)** — TypeScript | ML
+> ML-based financial crime detection system for identifying suspicious transactions using Python & Scikit-Learn.
+- Implemented classification models with feature engineering and model evaluation
+- Built real-time detection pipeline: data preprocessing → feature engineering → anomaly scoring → alert generation
+- Developed end-to-end ML pipeline from raw data to model deployment
+
+### 🔹 **[Outlier](https://github.com/ArchitSaxena349/outlier)** — TypeScript
+> Anomaly detection system using statistical & machine learning techniques.
+- Implemented multiple anomaly detection algorithms (Isolation Forest, Local Outlier Factor, Z-score)
+- Time-series anomaly detection for financial and operational data
+- Statistical analysis and visualization of outlier patterns
+
+### 🔹 **[Credit Approval System](https://github.com/ArchitSaxena349/credit-approval-system)** — Python | ML
+> ML classification model for credit risk assessment and loan approval predictions.
+- Data preprocessing, feature scaling, and exploratory data analysis (EDA)
+- Implemented multiple classification algorithms (Logistic Regression, Random Forest, XGBoost)
+- Model evaluation, hyperparameter tuning, and business metric optimization
+
+### 🔹 **[Employee Salary Prediction](https://github.com/ArchitSaxena349/employee-salary-prediction)** — Jupyter Notebook
+> Regression-based salary estimation with comprehensive data analysis.
+- End-to-end ML workflow: data exploration, feature engineering, model training, and evaluation
+- Applied multiple regression algorithms with cross-validation
+- Statistical analysis and insights generation from salary datasets
+
+### 🔹 **[Resume Analyzer](https://github.com/ArchitSaxena349/resumeanalyzer)** — Python | NLP
+> NLP-based resume evaluation and scoring system.
+- Text preprocessing, feature extraction, and semantic analysis
+- Resume skill extraction and job-matching algorithms
+- Built ranking system for candidate evaluation
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Engineering & Pipelines
+- **Technologies:** PySpark, Azure Databricks, Delta Lake, ETL/ELT, Data Warehouse (SQL)
+- **Cloud Platforms:** Azure (Blob Storage, Data Factory, Databricks), AWS (EC2, S3)
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQL Warehouse, Firebase, Supabase
+- **Data Processing:** PyArrow, ETL Pipelines, Pipelines, Stream Processing
+
+### 📈 Data Analysis & BI
+- **Tools:** Power BI, Tableau, Pandas, NumPy, Excel, SQL queries
+- **Techniques:** Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization
+- **Databases:** SQL Warehouse, Data Lakes, Data Marts
+
+### 🤖 Machine Learning & AI
+- **Frameworks:** Scikit-Learn, TensorFlow, Keras, PyTorch, LangChain, LLM Applications
+- **Techniques:** Classification, Regression, NLP, Computer Vision, Anomaly Detection, RAG
+- **Tools:** Jupyter Notebook, Prompt Engineering, Feature Engineering, Model Evaluation
+
+### 💻 Programming Languages
+- **Primary:** Python, SQL, JavaScript, Java, C
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+- **Data Processing:** PySpark, Pandas, NumPy, ETL Tools
+
+### 🌐 Full-Stack Development
+- **Frontend:** React, TypeScript, Tailwind CSS, Next.js
+- **Backend:** Node.js, Express, FastAPI, Flask
+- **APIs & Integrations:** REST APIs, Gemini API, GraphQL, JWT Authentication
 
 ### ☁️ DevOps & Tools
-- Docker, AWS (EC2, S3, Elastic Beanstalk)
-- Git & GitHub, Postman
-- Jupyter Notebook
-
-### 📡 IoT
-- Arduino, MQ-6 Gas Sensor, PM2.5 sensors
+- **Cloud & Containers:** Docker, AWS, Azure, CI/CD pipelines
+- **Version Control:** Git, GitHub
+- **Development Tools:** FastAPI, Postman, Jupyter Notebook
 
 ---
 
-## 🚀 Featured Projects
+## 📦 All Data & AI Projects
 
-### 🔹 **[PolyLingoAI](https://github.com/ArchitSaxena349/PolyLingoAI)** — TypeScript
-> AI-powered multilingual learning assistant using NLP and adaptive feedback.
-- Personalized language learning  
-- NLP-driven feedback loops  
-- Product-focused AI design  
+### 🤖 Machine Learning & Predictive Analytics
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **[Credit Approval System](https://github.com/ArchitSaxena349/credit-approval-system)** | Python, Scikit-Learn | ML classification for credit risk assessment |
+| **[Employee Salary Prediction](https://github.com/ArchitSaxena349/employee-salary-prediction)** | Python, Pandas, Scikit-Learn | Regression-based salary estimation with EDA |
+| **[Money-Muling-Detection](https://github.com/ArchitSaxena349/Money-Muling-Detection)** | Python, Scikit-Learn | Financial fraud detection using ML |
+| **[Outlier](https://github.com/ArchitSaxena349/outlier)** | Python, Scikit-Learn | Anomaly detection system |
+| **[Resume Analyzer](https://github.com/ArchitSaxena349/resumeanalyzer)** | Python, NLP | NLP-based resume evaluation |
 
-### 🔹 **[LearnBuddy-Agents](https://github.com/ArchitSaxena349/LearnBuddy-Agents)** — JavaScript
-> Agent-based AI learning assistant using autonomous workflows.
-- Multi-agent architecture  
-- Tool-calling & reasoning pipelines  
-- Scalable agent design  
+### 📄 Data Processing & NLP
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **[DocWrangler](https://github.com/ArchitSaxena349/Docwrangler)** | FastAPI, LLM, ChromaDB, RAG | Intelligent document processing with semantic search |
+| **[PolyLingoAI](https://github.com/ArchitSaxena349/PolyLingoAI)** | TypeScript, NLP | AI-powered multilingual learning assistant |
+| **[LearnBuddy-Agents](https://github.com/ArchitSaxena349/LearnBuddy-Agents)** | TypeScript, LLM Agents | Multi-agent AI system with reasoning pipelines |
 
-### 🔹 **[E-commerce Platform](https://github.com/ArchitSaxena349/ecommerce)** — TypeScript
-> End-to-end full-stack e-commerce system.
-- Authentication & authorization  
-- Product, cart & order workflows  
-- Clean backend API design  
+### 🌾 Data-Driven Applications
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **[AI Crop Management](https://github.com/ArchitSaxena349/ai-crop-management)** | React, Node.js, ML | Smart agriculture with data-driven crop recommendations |
+| **[KrishiKriya-Smart-AI-Farming-System](https://github.com/DivyanshSo/KrishiKriya-Smart-AI-Farming-System)** | React Native, ML | AI agriculture platform with predictive analytics |
 
-### 🔹 **[DocWrangler](https://github.com/ArchitSaxena349/Docwrangler)** — Python
-> Intelligent document processing and extraction tool.
-- Unstructured document parsing  
-- Automation-focused design  
-- Developer-centric utility  
+### 🌐 Full-Stack Applications (Data-Intensive)
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **[E-commerce Platform](https://github.com/ArchitSaxena349/ecommerce)** | TypeScript, Node.js, MongoDB | Full-stack platform with order & user analytics |
+| **[EventHive](https://github.com/ArchitSaxena349/eventhive)** | PHP, MySQL | Event management with data analytics |
+| **[VendorStreet](https://github.com/ArchitSaxena349/vendorstreet)** | JavaScript, Node.js | Multi-vendor marketplace with sales analytics |
 
-### 🔹 **[CV Mask Detection](https://github.com/ArchitSaxena349/CV-Mask-detection)** — Python
-> Real-time face mask detection system.
-- CNN + OpenCV pipeline  
-- Live video inference  
-- Flask-based deployment  
-
-### 🔹 **[3D Portfolio](https://github.com/ArchitSaxena349/3d_portfolio)** — JavaScript
-> Interactive 3D personal portfolio with modern UI/UX.
-- Three.js 3D visualization  
-- Performance-optimized frontend  
-- Responsive design  
-
----
-
-## 📦 All Repositories
-
-### 🤖 AI & Machine Learning
-| Project | Language | Description |
-|---------|----------|-------------|
-| **[Resume Analyzer](https://github.com/ArchitSaxena349/resumeanalyzer)** | JavaScript | NLP-based resume evaluation and scoring system |
-| **[Credit Approval System](https://github.com/ArchitSaxena349/credit-approval-system)** | Python | ML classification model for credit risk assessment |
-| **[Employee Salary Prediction](https://github.com/ArchitSaxena349/employee-salary-prediction)** | Jupyter Notebook | Regression-based salary estimation with data analysis |
-| **[Outlier](https://github.com/ArchitSaxena349/outlier)** | TypeScript | Anomaly detection using statistical & ML techniques |
-| **[Money-Muling-Detection](https://github.com/ArchitSaxena349/Money-Muling-Detection)** | TypeScript | Fraud detection system for financial transactions |
-
-### 🌐 Web & Full-Stack Applications
-| Project | Language | Description |
-|---------|----------|-------------|
-| **[EventHive](https://github.com/ArchitSaxena349/eventhive)** | PHP | Comprehensive event management platform |
-| **[VendorStreet](https://github.com/ArchitSaxena349/vendorstreet)** | JavaScript | Multi-vendor marketplace & vendor management system |
-| **[ReWear](https://github.com/akcode7/ReWear)** | PHP | Sustainable fashion resale platform for circular economy |
-| **[LabourLink](https://github.com/akcode7/labourlink)** | CSS | Job-matching platform for skilled labor |
-| **[Portfolio](https://github.com/ArchitSaxena349/Portfolio)** | HTML | Personal portfolio website |
-
-### 🌾 Agriculture & IoT
-| Project | Language | Description |
-|---------|----------|-------------|
-| **[AI Crop Management](https://github.com/ArchitSaxena349/ai-crop-management)** | JavaScript | Smart agriculture system with crop recommendation & disease detection |
-| **[KrishiKriya-Smart-AI-Farming-System](https://github.com/DivyanshSo/KrishiKriya-Smart-AI-Farming-System)** | TypeScript | AI-based agriculture app with crop recommendation and plant disease detection |
-
-### 🚀 Hackathons & Research Projects
-| Project | Language | Description |
-|---------|----------|-------------|
-| **[NASA RAG System](https://github.com/akcode7/nasa_hackathon_rag)** | JavaScript | Retrieval-augmented QA system over NASA datasets |
-| **[NASA Space App Challenge](https://github.com/The-code-wizard-934/Nasa_space_app_Challenge)** | JavaScript | Space data visualization & analytics project |
-| **[Ethara](https://github.com/ArchitSaxena349/ethara)** | JavaScript | Innovative project from hackathon/research |
-
-### 🔧 Utility & Supporting Projects
-| Project | Language | Description |
-|---------|----------|-------------|
-| **[LearnBuddy API](https://github.com/dishambha/learnbuddy-api)** | Python | Backend API for learning platform |
-| **[Alexa Sentiment Analyzer](https://github.com/Prakharshukla08PS/Alexa-sentimental-analyzer)** | Jupyter Notebook | NLP sentiment analysis using Alexa datasets |
-| **[EvolveNet](https://github.com/ArchitSaxena349/EvolveNet)** | JavaScript | Neural network evolution & optimization |
-
-### 📝 Profile Repository
-| Project | Language | Description |
-|---------|----------|-------------|
-| **[ArchitSaxena349](https://github.com/ArchitSaxena349/ArchitSaxena349)** | Markdown | This profile README |
+### 🚀 Research & Hackathons
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **[NASA RAG System](https://github.com/akcode7/nasa_hackathon_rag)** | LLM, RAG, Vector DB | Retrieval-augmented QA over NASA datasets |
+| **[NASA Space App Challenge](https://github.com/The-code-wizard-934/Nasa_space_app_Challenge)** | JavaScript, Data Viz | Space data visualization & analytics |
 
 ---
 
-## 📊 Repository Statistics
+## 📚 Education
 
-- **Total Repositories:** 28
-- **Primary Languages:** TypeScript, Python, JavaScript
-- **Focus Areas:** Full-Stack Development, AI/ML, Web Platforms, Hackathon Projects
-
----
-
-## 🎯 Key Achievements
-
-✅ Built 5+ full-stack applications from concept to deployment  
-✅ Developed machine learning models for classification, regression & anomaly detection  
-✅ Implemented computer vision pipelines with real-time inference  
-✅ Created multi-agent AI systems with autonomous reasoning  
-✅ Participated in NASA Space App Challenge & other hackathons  
-✅ Designed scalable backend architectures with REST APIs  
+**B.Tech Computer Science & Engineering**  
+Babu Banarasi Das University, Lucknow | CGPA: 7.41/10 (up to Sem VII)  
+**Expected Graduation:** 2026
 
 ---
 
-## 💼 Professional Summary
+## 🏆 Certifications & Training
 
-As a **Full-Stack Developer** and **AI/ML Engineer**, I specialize in:
+✅ **IBM AI Fundamentals** | IBM Internship – EduNet Foundation  
+✅ **AI Internship** | EduNet Foundation (AICTE & IBM SkillBuild)  
+✅ **Backend Development – FW Skills** | IBM Internship  
+✅ **MongoDB Introduction** | MongoDB University  
+✅ **Data Science – HP Life** | HP Life Learning Initiative  
+✅ **Git** – Version Control Fundamentals  
+✅ **Coursera Certifications** – Multiple Data Science & AI courses
 
-- **Building production-grade applications** using modern tech stacks (React, Node.js, TypeScript)
-- **Implementing AI/ML solutions** including NLP, computer vision, and predictive modeling
-- **Designing scalable architectures** with clean code principles and best practices
-- **Problem-solving** in real-world scenarios, from e-commerce to agricultural tech
+---
 
-I thrive in **collaborative environments**, stay updated with **emerging technologies**, and am committed to writing **maintainable, well-documented code**.
+## 🎯 Key Achievements & Competitions
+
+🏅 **NASA Space App Challenge** – Space technology hackathon  
+🏅 **Adobe India Hackathon** – Innovation competition  
+🏅 **ISRO Bharatiya Antariksha Hackathon** – Space research initiative  
+🏅 **Deloitte Data Analytics Simulation** – Hands-on analytics challenge  
+🏅 **Tata Data Visualization Simulation** – Business intelligence project  
+🏅 **Walmart Advanced Software Engineering Simulation** – Scalable systems design  
+🏅 **AWS Solutions Architecture Simulation** – Cloud infrastructure design
+
+---
+
+## 💡 Core Competencies
+
+| Domain | Skills |
+|--------|--------|
+| **Data Engineering** | PySpark, ETL/ELT, Azure Databricks, Delta Lake, SQL, Data Pipelines |
+| **Data Analysis** | EDA, Statistical Analysis, Power BI, Tableau, Pandas, NumPy, SQL |
+| **Machine Learning** | Supervised Learning, Classification, Regression, Model Evaluation, Feature Engineering |
+| **AI & NLP** | LLMs, RAG, Prompt Engineering, Text Processing, Semantic Search |
+| **Cloud Platforms** | Azure (Databricks, Blob Storage), AWS (EC2, S3, Elastic Beanstalk) |
+| **Programming** | Python, SQL, JavaScript, TypeScript, Java, C |
+| **Tools & Frameworks** | Jupyter, Scikit-Learn, TensorFlow, FastAPI, Flask, React, Node.js |
+
+---
+
+## 🎯 Career Objectives
+
+Seeking opportunities in:
+- 🔹 **Data Engineer** – Building scalable data pipelines and ETL workflows
+- 🔹 **Data Analyst** – Transforming data into actionable business insights
+- 🔹 **ML Engineer** – Deploying machine learning models in production
+- 🔹 **AI/ML Specialist** – Developing intelligent systems and AI applications
+- 🔹 **Business Intelligence** – Creating data-driven analytics solutions
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
 I'm actively interested in:
-- 🔹 Software Engineering roles  
-- 🔹 Full-Stack & AI development opportunities  
-- 🔹 Hackathons & open-source contributions  
-- 🔹 Building innovative products solving real-world problems  
+- 🔹 Data Engineering & Analytics roles  
+- 🔹 Machine Learning & AI development opportunities  
+- 🔹 Building data-driven products solving real-world problems  
+- 🔹 Open-source contributions in data science  
 
 📩 **Reach out via:**
 - **LinkedIn:** https://www.linkedin.com/in/archit-saxena-61a8b6290
 - **Email:** architsaxena349@gmail.com
+- **Phone:** +91 8887622519
 - **Portfolio:** https://portfolio-psi-gold-55.vercel.app
 
 ---
 
 ## ⭐ Support My Work
 
-If you find my projects useful or interesting:
+If you find my projects useful:
 - ⭐ **Star** relevant repositories
 - 🔄 **Fork & contribute** to projects you'd like to improve
-- 💬 **Open issues** or discussions for collaboration
+- 💬 **Open discussions** for collaboration
 
 ---
 
-**Last Updated:** June 2026 | *Actively building & learning*
+**Last Updated:** June 2026 | *Actively building data solutions & learning new technologies*
